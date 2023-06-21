@@ -1,5 +1,5 @@
-# FinalProject Group_1
-Team Members:
+# Group 1 Project:
+<i>Team Members:<i>
 <ul>
   <li>Ritesh Bolane</li>
   <li>Pratik Khadse</li>
