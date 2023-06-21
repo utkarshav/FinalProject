@@ -1,1 +1,13 @@
-#Business Requirement Specification
+Business Requirement Specification
+Author: PURN
+Title: ***********************************
+Entities:
+          Visitors,
+          Existing Customers,
+          New Customers,
+          Horticulturist,
+          Vendors(Delivery Agents),
+          Administrator
+          
+Document generated with the help of introductory Online meeting held between group members.
+First Draft : 21-06-2023
