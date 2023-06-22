@@ -7,15 +7,13 @@ System Requirement Specification Document
 System Reqruiement Spefication for Fitness Tracking Portal
 
 ## Team: 
-Direct Customer,Indirect Customer, Group Members
+Direct Customer,Indirect Customer, Group Members, Administrator.
 
 ## Objective (Purpose):
 The Online FItness Tracking app is designed to provide health solutions to the user by allowing them to track their daily calorie intakes and thus monitor and control the food to be consumed, along with guides to exercises and provide estimated calorie expenditure. It will enable the user to browse through various plans , which will be curated as per the user's requirement, and hence provide a portal for effective health management system.
 
 ## Scope:
-This System allows Shoppers to maintain thier products for adding or removing from catalog based on their availablity.
-Customer will be able to  review orders history and may able to cancel order within 24 hours,order place.
-The System  will be able to show live Bussion Operation statistics trends through Customized dashboard for stakeholders.
+This system allows users to select from the catalogue various plans for weight loss and nutrition(if subscribed for). Customer will be able to cancel their membership upto 7 days of purchase. They can alos veiw their order history from the menu.
 
 ## Definitions:
 	OSS: Online Shopping System
