@@ -1,16 +1,16 @@
-# ECommercePortal
+# Fitness Tracker
 
 ## Document:
 System Requirement Specification Document
 
 ## Title:
-System Reqruiement Spefication for Online Shopping Portal
+System Reqruiement Spefication for Fitness Tracking Portal
 
 ## Team: 
-Direct Customer,Indirect Customer, Architect,Business Analyst,	Quality Assurance Team, System Analyst
+Direct Customer,Indirect Customer, Group Members
 
 ## Objective (Purpose):
-The online shopping System for products Web Applictaion is intended to  provide complete solution for vendors, Consumers as well as internal users (Staff) through  a single Gateway using internet. It will enable vendors to setp up online shops, customers to browse through virtual shop and purchase products online without visiting the shop physically.
+The Online FItness Tracking app is designed to provide health solutions to the user by allowing them to track their daily calorie intakes and thus monitor and control the food to be consumed, along with guides to exercises and provide estimated calorie expenditure. It will enable the user to browse through various plans , which will be curated as per the user's requirement, and hence provide a portal for effective health management system.
 
 ## Scope:
 This System allows Shoppers to maintain thier products for adding or removing from catalog based on their availablity.
