@@ -5,8 +5,7 @@ Entities:
           Visitors,
           Existing Customers,
           New Customers,
-          Vendors(Delivery Agents),
-          Administrator
+          Administrator(Gym Owner)
           
 Document generated with the help of introductory Online meeting held between group members.
 First Draft : 21-06-2023
