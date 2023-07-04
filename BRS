@@ -5,7 +5,6 @@ Entities:
           Visitors,
           Existing Customers,
           New Customers,
-          Horticulturist,
           Vendors(Delivery Agents),
           Administrator
           
