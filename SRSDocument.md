@@ -1,4 +1,4 @@
-# Fitness Tracker System
+# Fitness Tracker 
 
 ## Document:
 System Requirement Specification Document
