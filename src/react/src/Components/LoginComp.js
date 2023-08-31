@@ -82,6 +82,12 @@ export default function LoginComp()
                                navigate("/member");
 
                           }
+                          else if(obj.usertype_id.id === 5)
+                          {
+                               //alert("in member");
+                               navigate("/tariner");
+
+                          }
 
                 }
             }
